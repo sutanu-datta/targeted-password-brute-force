@@ -1,2 +1,38 @@
-# targeted-password-brute-force
-A Python tool that simulates a targeted brute-force attack by generating password guesses using personal information like name, surname, date of birth, and other custom keywords. It mimics real-world attack logic used in social engineering and demonstrates how weak or predictable passwords can be cracked.
+# 🔐 Targeted Brute-Force Password Simulator
+
+A Python tool that simulates a targeted brute-force attack using personal information like names, dates of birth, and custom keywords. Ideal for educational purposes, cybersecurity awareness, and understanding password vulnerabilities.
+
+---
+
+## ⚙️ Features
+
+- ✅ Personal-data-based password pattern generation
+- 🔁 Permutations and combinations with symbols and numbers
+- 🕒 Simulated brute-force speed control (default: 100,000 attempts/sec)
+- 📊 Cracking time estimation and real-time feedback
+- 🔄 Multi-round attempts if the password is not found initially
+
+---
+
+## 🧠 Why Use This?
+
+This tool helps demonstrate:
+- How attackers can leverage public/personal info
+- The risk of using weak, guessable passwords
+- The importance of using strong, unique, and unpredictable passwords
+
+---
+
+## 📦 Requirements
+
+- Python 3.x
+- No external libraries needed
+
+---
+
+## 🚀 How to Use
+
+1. **Clone this repo or download the script:**
+   ```bash
+   git clone https://github.com/yourusername/brute-force-simulator.git
+   cd brute-force-simulator
