@@ -34,5 +34,5 @@ This tool helps demonstrate:
 
 1. **Clone this repo or download the script:**
    ```bash
-   git clone https://github.com/yourusername/brute-force-simulator.git
-   cd brute-force-simulator
+   git clone [https://github.com/sutanu-datta/targeted-password-brute-force.git]
+   cd targeted-password-brute-force
